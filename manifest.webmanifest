@@ -1,11 +1,9 @@
 {
   "name": "ИМПУЛЬС — прецизионное кондиционирование",
   "short_name": "ИМПУЛЬС",
-  "description": "Прецизионное кондиционирование, ИБП и модульные ЦОД — ООО «Системотехника»",
-  "lang": "ru",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#15446d"
+  "theme_color": "#15446d",
+  "icons": []
 }
